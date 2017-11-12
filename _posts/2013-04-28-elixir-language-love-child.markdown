@@ -2,6 +2,7 @@
 layout: post
 title: 'Elixir: Language Love Child?'
 date: 2013-04-28 16:04:00.000000000 -05:00
+categories: erlang ruby elixir
 ---
 <div class="kg-card-markdown"><p>Different programming languages, like different people, have their strengths and weaknesses. Some are simple; some are complex. Some are friendly to the programmer; some are friendly to the processor. Some cater to brilliant minds; some cater to other minds. I have spent a significant portion of my development career writing code in C#, which is accurately described as a general purpose language. It aims to be able to do most anything, rather than to be the best at any one particular thing.</p>
 <p>After several years of living mostly in C#, I ran across Ruby and fell in love with it. It's no surprise, because Ruby was designed to optimize for developer enjoyment. It's very readable with low ceremony, and it takes no time to get something up and running. The down side is that it is not fast in execution. It's one of the slowest languages in use today, but when I'm writing Ruby, I don't care. I write in Ruby when speed of development is more important than speed of execution, or when I just want to have fun.</p>

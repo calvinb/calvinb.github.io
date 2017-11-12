@@ -2,6 +2,7 @@
 layout: post
 title: We Want the Func! - Moving Toward Functional Programming
 date: 2010-09-22 01:31:00.000000000 -05:00
+categories: functional
 ---
 <div class="kg-card-markdown"><p>In the last year I have heard/read where <a href="http://www.objectmentor.com/omTeam/martin_r.html">Uncle Bob</a> has been talking about discovering the twenty-six-year-old treasure of a book <a href="http://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs">The Structure and Interpretation of Computer Programs</a>. It happened enough times that I decided to check it out. The book is available free of charge <a href="http://www.scribd.com/doc/15556326/Structure-and-Interpretation-of-Computer-Programs-SICP">here</a>. The language used in the book is <a href="http://en.wikipedia.org/wiki/Scheme_%28programming_language%29">Scheme</a>, an implementation of <a href="http://en.wikipedia.org/wiki/Lisp_programming_language">Lisp</a>. I hadn't written or read any Lisp since college, but even then I really liked it.</p>
 <p>At the time I had no idea of the concepts of functional vs. imperative programming. We didn't talk about immutability; I just thought it was interesting that you had to use recursion where you would normally have used a loop.</p>

@@ -2,6 +2,7 @@
 layout: post
 title: On Software and Music - In With the Old
 date: 2010-09-26 14:53:00.000000000 -05:00
+categories: music functional
 ---
 <div class="kg-card-markdown"><img border="0" src="http://www.torontoist.com/attachments/toronto_erinb/2007_01_25tso.jpg" />
 <p>As one of the many software developers who are also musicians, I have always been fascinated by the frequent bundling of the gifts and passions for these two endeavors and what they have in common. I have always said that writing code and writing music feel a lot like the same process to me, like they're using the same parts of the brain. Music and code are certainly similar in many ways. Both need structure and coherence. Each work must be unique in some way, or it is meaningless. Both must follow some set of rules. What set of rules to follow is a creative choice. Sometimes you can even make up your own rules, but failure to follow them will pose a threat to the cohesion of the work. Once the rules are established, you may occasionally, carefully, and mindfully, make some real magic by breaking them.</p>

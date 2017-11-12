@@ -2,6 +2,7 @@
 layout: post
 title: Roman Numerals Kata in Ruby, Take II
 date: 2012-01-28 11:34:00.000000000 -06:00
+categories: ruby kata
 ---
 <div class="kg-card-markdown"><p>Last week I posted a <a href="/geek-ballet-roman-numerals-kata-in-ruby/">screencast</a> of my take on the Roman Numerals kata in Ruby. It was <a href="http://coreyhaines.com" target="_blank">Corey Haines</a> who encouraged me to do that, and he was gracious enough to take the time to watch it and offer some suggestions. We both thought it might be interesting if I did another iteration of it and discussed the changes. His two main concerns were that (1) it would have been nice to see the pattern extracted sooner and (2) there must be a way to introduce the zero case without blowing up all the tests.</p>
 <p>Here is the first video for reference:</p>

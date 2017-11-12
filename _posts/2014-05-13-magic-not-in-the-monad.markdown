@@ -2,6 +2,7 @@
 layout: post
 title: Magic Not in the Monad
 date: 2014-05-13 02:46:00.000000000 -05:00
+categories: haskell monads
 ---
 <div class="kg-card-markdown"><img src="http://upload.wikimedia.org/wikipedia/commons/c/c2/DeeHieroglyph.gif" alt="Monad" style="width:100px" />
 <p>I am recently coming to grips with a foundational misconception I have been entertaining about monads, possibly since I first heard the term. I am not a category theorist, and I first encountered monads in the context of functional programming. For me the monad has always been shrouded in mystery and sporting a reputation of being very difficult to understand.</p>

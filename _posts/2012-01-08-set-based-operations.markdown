@@ -2,6 +2,7 @@
 layout: post
 title: 'Set-Based Operations: They''re Not Just For Databases'
 date: 2012-01-08 18:45:00.000000000 -06:00
+categories: math sets
 ---
 <div class="kg-card-markdown"><p>What do you think of when you hear the term <em>set-based operations</em>? I have always thought of that as a database concept. Set-based operations address or operate on multiple data elements, seemingly in parallel, as opposed to iterating through and executing operations one by one. I was introduced to this concept in the context of SQL in relational databases, and it was a struggle at first. My brain was more naturally predisposed to think in terms of iterating over a list, doing one thing at a time.</p>
 <p>I remember first running into this mismatch of approaches writing my first SQL Server triggers. (Let's pretend for the moment that this is not a holy war topic.) I intuitively wanted to do a particular thing with each row that was inserted into a table. I wanted to deal with the inserted column values as scalar values.</p>

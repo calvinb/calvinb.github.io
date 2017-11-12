@@ -2,6 +2,7 @@
 layout: post
 title: Nodevember 2016
 date: 2016-11-16 22:05:00.000000000 -06:00
+categories: music
 ---
 <div class="kg-card-markdown"><p><img src="https://pbs.twimg.com/profile_images/642086927173316608/wi7FHPE7.png" alt="Nodevember"></p>
 <p>I just got done with <a href="http://nodevember.org/">Nodevember</a> 2016, where I saw some great talks, caught up with some old friends, and made some new ones. I also had a fun time hanging out in person with some of my <a href="https://www.leankit.com">LeanKit</a> co-workers who work remotely, and I work with the greatest people in the world, so that's always wonderful. I had the privilege of presenting a new talk I called &quot;Arts and Sciences: Programming Music on the Web.&quot; I had a fabulous crowd who were so onboard and engaged, and they made it so much fun! If you were there, thank you for making it such a blast!</p>

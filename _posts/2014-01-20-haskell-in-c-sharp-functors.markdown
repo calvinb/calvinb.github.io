@@ -2,6 +2,7 @@
 layout: post
 title: 'Rebuilding Haskell in C#: Functors'
 date: 2014-01-20 15:23:00.000000000 -06:00
+categories: haskell functional c#
 ---
 <div class="kg-card-markdown"><p>Look out; I've been digging into Haskell again. I enjoy learning about Haskell, but more than that, I enjoy learning to think in a functional way. Haskell is a particularly good language to facilitate that, as it is arguably the most functional of functional languages. It boasts &quot;pure&quot; functionality, and while some might believe that means it is of no practical use, I think it makes it pretty cool.</p>
 <p>While I enjoy my Haskell studies, I still struggle with a few core concepts. For example, I keep having to go back and reread explanations of Functors. I understand them at the time, but it doesn't stick, and I keep having to come back and read it again. Maybe my appreciation for some of the staples of Haskell would be a little less volatile if I had the experience of implementing them myself in an imperative language like C#.</p>

@@ -2,6 +2,7 @@
 layout: post
 title: 'Anatomy of a One-Liner: FizzBuzz in Haskell'
 date: 2012-02-25 10:21:00.000000000 -06:00
+categories: haskell
 ---
 <div class="kg-card-markdown"><p>In the <a href="https://groups.google.com/group/nashfp/" target="_blank">NashFP</a> group, a gang of functionally inclined Nashville area geeks recently organized by <a href="http://codeswamp.com/" target="_blank">Bryan Hunter</a>, we decided to share <a href="https://github.com/NashFP/fizzbuzz" target="_blank">implementations</a> of the classic FizzBuzz problem in various functional languages. I took my first shot in Scheme and then decided it was time to dust off my Haskell. On my first attempt I waded through the syntax enough to get something working, but it included several named functions and was clearly more code than was necessary to solve the problem. As I began to look for ways to shorten it, I remembered that a year or two ago Bryan had written a FizzBuzz implementation in Erlang that was short enough to tweet. Obviously this became my new goal.</p>
 <p>I managed to whittle it down below 140 characters, but its readability suffered quite a bit. I thought it might be fun to dissect here bit by bit, and it might even come out shorter and more readable. I keep learning new tricks in Haskell and in the general functional approach that offer new opportunities to make my code shorter and more streamlined. You might learn some of these here, or if you have any pointers to offer me in comments, I would love to learn some from you as well.</p>

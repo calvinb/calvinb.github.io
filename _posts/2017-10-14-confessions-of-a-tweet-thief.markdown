@@ -2,6 +2,7 @@
 layout: post
 title: 'OH: Confessions of a Tweet Thief'
 date: 2017-10-14 20:33:11.000000000 -05:00
+categories: social
 ---
 <div class="kg-card-markdown"><p>Most of my developer friends who have achieved any amount of public recognition or notoriety have reported experiencing some measure of <a href="https://en.wikipedia.org/wiki/Impostor_syndrome">impostor syndrome</a>. They feel that they have garnered a reputation that surpasses their actual level of competence and contribution. It always brings me great comfort to hear this, because I feel the same way. Or am I just pretending so that I'll feel more like one of them? 😉</p>
 <p>Well, I recently went beyond the syndrome and proved myself an actual impostor, a fraud, a phony. A plagiarist, to be specific. One evening last month I was sitting at home doing something useless on my laptop when my eldest spawn told me a geeky math joke. I thought it was very clever. I thought my geeky friends would appreciate it as well. So I tweeted it.</p>
