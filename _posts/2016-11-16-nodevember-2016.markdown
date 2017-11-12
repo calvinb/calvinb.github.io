@@ -1,0 +1,17 @@
+---
+layout: post
+title: Nodevember 2016
+date: 2016-11-16 22:05:00.000000000 -06:00
+categories: music
+---
+<div class="kg-card-markdown"><p><img src="https://pbs.twimg.com/profile_images/642086927173316608/wi7FHPE7.png" alt="Nodevember"></p>
+<p>I just got done with <a href="http://nodevember.org/">Nodevember</a> 2016, where I saw some great talks, caught up with some old friends, and made some new ones. I also had a fun time hanging out in person with some of my <a href="https://www.leankit.com">LeanKit</a> co-workers who work remotely, and I work with the greatest people in the world, so that's always wonderful. I had the privilege of presenting a new talk I called &quot;Arts and Sciences: Programming Music on the Web.&quot; I had a fabulous crowd who were so onboard and engaged, and they made it so much fun! If you were there, thank you for making it such a blast!</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BI07FgIDEYM" frameborder="0" allowfullscreen></iframe>
+<p>The slides for my talk are available <a href="https://docs.google.com/presentation/d/1XRB9_aLJa-hV9CKE60cQt4_vfQAFw_iaGK5H9P8jWpE">here</a>, and you can find the &quot;Beep Boop&quot; BASIC code I showed at <a href="https://github.com/calvinb/beep-boop">https://github.com/calvinb/beep-boop</a>.</p>
+<p>In case you're interested in the recordings of the early computer music demos I mentioned, here are the links:</p>
+<ul>
+<li><a href="https://www.theguardian.com/science/2016/sep/26/first-recording-computer-generated-music-created-alan-turing-restored-enigma-code">Turing and Strachey 1951</a></li>
+<li><a href="https://www.youtube.com/watch?v=fgYhVnmeWrk">Dompier, Altair 8800b &quot;Fool on the Hill&quot; 1975</a></li>
+</ul>
+<p>Go build something fun!</p>
+</div>
