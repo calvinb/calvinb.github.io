@@ -56,6 +56,7 @@ matrix = Matrix.rows([[3, 1, 5], [0, 2, 2], [6, 3, 4]])
 p matrix * 2 #=&gt; Matrix[[6, 2, 10], [0, 4, 4], [12, 6, 8]]</pre>
 <h3>Example 2 in C#</h3>
 Iterative approach:
+{% raw %}
 <pre class="prettyprint">int[] column = {2, 0, 4};
 int[] row = {1, 2, 3};
 var product = new int [3, 3];
@@ -63,6 +64,7 @@ for (var i = 0; i &lt; 3; i++)
     for (var j = 0; j &lt; 3; j++)
         product[i, j] = column[i] * row[j];
 // product =&gt; {{2, 4, 6}, {0, 0, 0}, {4, 8, 12}}</pre>
+{% endraw %}
 Matrix approach using the <a href="http://numerics.mathdotnet.com/" target="_blank">Math.NET Numerics</a> library:
 <pre class="prettyprint">var column = new DenseMatrix(3, 1);
 column.SetColumn(0, new double[] {2, 0, 4});
