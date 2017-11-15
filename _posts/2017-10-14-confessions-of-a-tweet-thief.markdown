@@ -18,3 +18,5 @@ categories: social
 <p>Such social media points mean nothing to some people but an awful lot to others, and I had just collected someone else's jackpot. So <a href="https://twitter.com/sigfpe">@sigfpe</a>, thank you for being so cool about this whole thing and seeing it for the inadvertent act that it was. I really liked your joke, and I clearly am not alone.</p>
 <p>Man, Twitter is kind of frightening. It's fortunate that important people don't use it to talk about real things.</p>
 </div>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
