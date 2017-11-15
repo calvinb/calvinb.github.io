@@ -4,8 +4,9 @@ title: 'Polyglot Survival Guide: Erlang, Haskell, F#, and Elixir'
 date: 2014-01-20 09:43:00.000000000 -06:00
 categories: haskell functional f# erlang elixir
 ---
-<div class="kg-card-markdown"><p>Lately I have been bouncing back and forth between Erlang and Haskell, two profoundly significant functional languages that I find both very different and very similar. They are very different in their philosophies and thought patterns, particularly around data types, but both being non-LISPy functional languages, they have enough similarities that I sometimes having trouble keeping them straight when I am coding. So I have started a simple list here cataloging some of their differences side by side. I imagine I will continue to add to it over time. Please comment to let me know what other features or constructs you might like to see added here.</p>
-<p>I have now added entries for F# and Elixir, which I am also working with lately. While Elixir is the least adopted so far, I put it right after Erlang, since their relationship leads to a lot of similarities in the details cataloged here.</p>
+Lately I have been bouncing back and forth between Erlang and Haskell, two profoundly significant functional languages that I find both very different and very similar. They are very different in their philosophies and thought patterns, particularly around data types, but both being non-LISPy functional languages, they have enough similarities that I sometimes having trouble keeping them straight when I am coding. So I have started a simple list here cataloging some of their differences side by side. I imagine I will continue to add to it over time. Please comment to let me know what other features or constructs you might like to see added here.
+
+I have now added entries for F# and Elixir, which I am also working with lately. While Elixir is the least adopted so far, I put it right after Erlang, since their relationship leads to a lot of similarities in the details cataloged here.
 <h5>Functional Purity</h5>
 <dl><dt>Erlang</dt><dd>no</dd><dt>Elixir</dt><dd>no</dd><dt>Haskell</dt><dd>yes (in that all side effects are relegated to the IO monad)</dd><dt>F#</dt><dd>no</dd></dl>
 <h5>REPL</h5>
@@ -155,4 +156,4 @@ or
 <pre>map (x -&gt; x*x) [1..3]</pre>
 </dd><dt>F#</dt><dd>
 <pre>List.map (fun x -&gt; x*x) [1 .. 3]</pre>
-</dd></dl>&nbsp;</div>
+</dd></dl>&nbsp;
