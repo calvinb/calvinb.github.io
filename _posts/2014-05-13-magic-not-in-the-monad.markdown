@@ -16,72 +16,72 @@ The epiphany of my error occurred during a recent [NashFP](http://nashfp.org) di
 
 We can use the `:info` command to ask ghci (Glasgow Haskell Compiler Interactive) what Monad instances it has loaded right out of the box.
 
-```prettyprint lang-hs
+{% highlight haskell %}
 Prelude> :info Monad
 class Monad m where
   (>>=) :: m a -> (a -> m b) -> m b
   (>>) :: m a -> m b -> m b
   return :: a -> m a
   fail :: String -> m a
-  	-- Defined in `GHC.Base'
+    -- Defined in `GHC.Base'
 instance Monad Maybe -- Defined in `Data.Maybe'
 instance Monad (Either e) -- Defined in `Data.Either'
 instance Monad [] -- Defined in `GHC.Base'
 instance Monad IO -- Defined in `GHC.Base'
 instance Monad ((->) r) -- Defined in `GHC.Base'
-```
+{% endhighlight %}
 
 Here we see first the four functions of the Monad type class, and then the instances, which are what we're after. There are five Monad instances in GHC.Base, and they are Maybe, Either, list, IO, and function. Yeah, the syntax is weird, but `((->) r)` is the _function_ function. Functions are monads. Go chew on that one awhile. Every one of these Monad instances except IO is utterly commonplace and non-magical.
 
 So there is monad without magic. How about magic without monad? What do we know about IO other than that it's a Monad instance? Let's ask ghci.
 
-```prettyprint lang-hs
+{% highlight haskell %}
 Prelude> :info IO
 newtype IO a
   = GHC.Types.IO (GHC.Prim.State# GHC.Prim.RealWorld
                   -> (# GHC.Prim.State# GHC.Prim.RealWorld, a #))
-  	-- Defined in `GHC.Types'
+    -- Defined in `GHC.Types'
 instance Monad IO -- Defined in `GHC.Base'
 instance Functor IO -- Defined in `GHC.Base'
-```
+{% endhighlight %}
 
 Of course! It's a Functor, as Monads almost always are. Let's talk to it like a plain old Functor. How do we talk Functor? Back to ghci.
 
-```prettyprint lang-hs
+{% highlight haskell %}
 Prelude> :info Functor
 class Functor f where
   fmap :: (a -> b) -> f a -> f b
   (GHC.Base.<$) :: a -> f b -> f a
-  	-- Defined in `GHC.Base'
+    -- Defined in `GHC.Base'
 instance Functor Maybe -- Defined in `Data.Maybe'
 instance Functor (Either a) -- Defined in `Data.Either'
 instance Functor [] -- Defined in `GHC.Base'
 instance Functor IO -- Defined in `GHC.Base'
 instance Functor ((->) r) -- Defined in `GHC.Base'
 instance Functor ((,) a) -- Defined in `GHC.Base'
-```
+{% endhighlight %}
 
 Ah, yes, `fmap` is the only function in the Functor type class. If IO is just a Functor, we should be able to `fmap` over it. What is the simplest way to get an IO value? My favorite is the `getLine` function, which will give us an `IO String`.
 
-```prettyprint lang-hs
+{% highlight haskell %}
 Prelude> :type getLine
 getLine :: IO String
-```
+{% endhighlight %}
 
 To `fmap` over an `IO String`, we need a function that takes a String and returns a simple value. Let's use `(++"!")`, which will "shout" any string we apply it to. A simple use would look like this:
 
-```prettyprint lang-hs
+{% highlight haskell %}
 Prelude> (++"!") "Hi"
 "Hi!"
-```
+{% endhighlight %}
 
 Now let's try to `fmap` that function over an IO String, which we will get from `getLine`.
 
-```prettyprint lang-hs
+{% highlight haskell %}
 Prelude> fmap (++"!") getLine
 Hello
 "Hello!"
-```
+{% endhighlight %}
 
 Look at that. We just used IO as a Functor (via `fmap`) without using any Monad functions or features. It still waited for input. It still got an unpredictable value. It still did its magic thing as a plain old Functor.
 
