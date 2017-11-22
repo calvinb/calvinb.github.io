@@ -2,9 +2,8 @@
 layout: post
 title: Underwater
 date: 2011-03-04 22:43:00.000000000 -06:00
+image: http://i.imgur.com/8130mL5.jpg
 ---
-![Drowning](http://i.imgur.com/8130mL5.jpg)
-
 Remember on *Fear Factor* when they used have people go underwater and pick a lock or solve a Rubik's cube or eat some disgusting animal part? Did you ever think about how you would approach that challenge? I always think about these things. I don't know why, because I will never be on one of those shows, but if I were, I would have thoroughly considered my approach.
 
 If I'm going underwater, and I need to get something done, I will be focused from the start. I've got 30 seconds' worth of oxygen in my lungs; I can't just dive in, turn a couple of flips, wave at the camera, and maybe plan my dinner menu for the week. If I do that, I'm definitely not going to get the lock open. Fortunately, as my body gets desperate for oxygen, the survival instinct will kick in, and I'll go scrambling for the surface. So I may fail, but at least I won't die.

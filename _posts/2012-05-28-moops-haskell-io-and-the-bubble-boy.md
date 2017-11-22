@@ -3,9 +3,8 @@ layout: post
 title: Moops! Haskell, IO, and the Bubble Boy
 date: 2012-05-28 08:53:00.000000000 -05:00
 categories: haskell
+video: //www.youtube.com/embed/LQzW73WRrYM
 ---
-<iframe width="420" height="315" src="//www.youtube.com/embed/LQzW73WRrYM" frameborder="0" allowfullscreen></iframe>
-
 I recently set out to get Haskell connected to a PostgreSQL database. The task ended up having almost nothing to do with PostgreSQL and everything to do with Haskell's militant stance on functional purity. I chose to use HDBC since it appeared to be the most vanilla approach. Before I even got to the point of trying to open a database connection, I was confronted with a philosophical conundrum not too different from the sound of one hand clapping.
 
 I'll provide some code here in case you want to follow along in ghci (the Glasgow Haskell Compiler Interactive), but I'm really more about the philosophy here. First I imported the HDBC library and the PostgreSQL driver.

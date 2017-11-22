@@ -3,9 +3,8 @@ layout: post
 title: On Software and Music - In With the Old
 date: 2010-09-26 14:53:00.000000000 -05:00
 categories: music functional
+image: http://www.torontoist.com/attachments/toronto_erinb/2007_01_25tso.jpg
 ---
-<img border="0" src="http://www.torontoist.com/attachments/toronto_erinb/2007_01_25tso.jpg" />
-
 As one of the many software developers who are also musicians, I have always been fascinated by the frequent bundling of the gifts and passions for these two endeavors and what they have in common. I have always said that writing code and writing music feel a lot like the same process to me, like they're using the same parts of the brain. Music and code are certainly similar in many ways. Both need structure and coherence. Each work must be unique in some way, or it is meaningless. Both must follow some set of rules. What set of rules to follow is a creative choice. Sometimes you can even make up your own rules, but failure to follow them will pose a threat to the cohesion of the work. Once the rules are established, you may occasionally, carefully, and mindfully, make some real magic by breaking them.
 
 Looking at these similarities causes me to wonder about their differences. If the creative processes are so similar, what about the products thereof? One difference I notice is that music seems to be much more durable than code. The software world is in so many ways all about "the new hotness." The music world also has this element, but old music is much more present in the world than old code. Not that old code doesn't have its own nostalgic place our hearts. This is the magic of <a href="http://mamedev.org/">Mame</a> and cool projects like the <a href="http://www.calormen.com/Applesoft/">AppleSoft BASIC Interpreter in JavaScript</a> and <a href="http://codeazur.com.br/stuff/fc64_final/">FC64</a>. It's why people buy Donkey Kong machines on eBay. The musical side of this nostalgia would be listening to <i>Van Halen I</i> or <i>Synchronicity</i> or <i>Frampton Comes Alive</i> or whatever you remember listening to as a kid.

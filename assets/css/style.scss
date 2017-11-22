@@ -30,4 +30,29 @@
             text-decoration: underline;
         }
     }
+    li {
+        padding-bottom: 3rem;
+    }
+}
+h1 {
+    a {
+        color: inherit;
+        &:hover {
+            text-decoration: none;
+        }
+    }
+}
+.post-list h2 {
+    background: none;
+    padding-bottom: 0.5rem;
+}
+a:hover {
+    font-weight: inherit
+}
+.post-content {
+    img, iframe {
+        display: block;
+        max-width: 100%;
+        margin: auto;
+    }
 }

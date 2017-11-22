@@ -3,9 +3,8 @@ layout: post
 title: Partial Application vs. Currying
 date: 2014-06-28 03:06:00.000000000 -05:00
 categories: haskell functional f# javascript
+image: http://www.foodpeoplewant.com/wp-content/uploads/2009/11/Panang-Beef-Curry-1024x768.jpg
 ---
-![Curry](http://www.foodpeoplewant.com/wp-content/uploads/2009/11/Panang-Beef-Curry-1024x768.jpg)
-
 Is the entire world of aspiring functional programmers generally confused about partial function application and currying, or is it just me? I like to feel well-informed when I think to myself that these two are not the same thing, but I still couldn't tell you what the difference is. To me they are like Bill and Ted on their Excellent Adventure; I know them when I see them, but I don't know which is which. I have just decided it is time to dive in and get this straight. So here we go.
 
 ### Divide and Conquer
