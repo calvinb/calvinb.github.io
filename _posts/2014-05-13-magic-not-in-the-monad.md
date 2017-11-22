@@ -3,9 +3,8 @@ layout: post
 title: Magic Not in the Monad
 date: 2014-05-13 02:46:00.000000000 -05:00
 categories: haskell monads
+image: http://upload.wikimedia.org/wikipedia/commons/c/c2/DeeHieroglyph.gif
 ---
-<img src="http://upload.wikimedia.org/wikipedia/commons/c/c2/DeeHieroglyph.gif" alt="Monad" style="width:100px" />
-
 I am recently coming to grips with a foundational misconception I have been entertaining about monads, possibly since I first heard the term. I am not a category theorist, and I first encountered monads in the context of functional programming. For me the monad has always been shrouded in mystery and sporting a reputation of being very difficult to understand.
 
 My misconception is that I have associated monads with side effects. Before I started learning Haskell, I heard someone say, "If you need to produce a side effect in Haskell, you have to use a monad." This is not untrue, but the way it is stated is misleading. It would be more accurate to be more specific and say you have to use the IO type constructor. But IO is a monad, so where's the harm?
