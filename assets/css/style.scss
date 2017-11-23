@@ -11,6 +11,17 @@
     .inner a {
         color: #ffffff;
     }
+
+    #menu {
+        list-style-type: none;
+        padding-left: 0;
+        margin-bottom: 0;
+
+        li {
+            display: inline;
+            margin-right: 5rem;
+        }
+    }
 }
 .post-list {
     list-style-type: none;
