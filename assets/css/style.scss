@@ -7,6 +7,10 @@
     background-image: url("/images/piano-20emilianohorcada.jpg");
     background-position: center;
     background-size: cover;
+
+    .inner a {
+        color: #ffffff;
+    }
 }
 .post-list {
     list-style-type: none;
