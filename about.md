@@ -10,7 +10,7 @@ I like languages. I enjoy tinkering with Haskell, Elixir, Elm, and such.
 I am fortunate to work with a small and brilliant team at
 <a href="https://hcahealthcare.com" target="_blank">HCA</a>
 in Nashville, Tennessee, creating cool and exciting things with Elixir.
-I play keyboards in the awesome Beatles band cover band
+I play keyboards in the awesome Beatles cover band
 <a href="https://theenglishrain.com" target="_blank">The English Rain</a>.
 Sometimes I speak. Sometimes I write. Most times I code.
 
