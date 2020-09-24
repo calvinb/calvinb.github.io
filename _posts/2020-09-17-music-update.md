@@ -3,12 +3,12 @@ layout: post
 title:  Music Update
 categories: music
 ---
-![Me at Abbey Road on the River 2019](/images/calvin-ter-arotr-2019-800.jpg)
-*Photo by Paul Martin*
-
 Hey, I'm trying to step away from social media, which has reminded me that I have
 this blog. My musical life has picked up a bit in the last couple of years, and I
 thought I would throw out an update here just for fun.
+
+![Me at Abbey Road on the River 2019](/images/calvin-ter-arotr-2019-800.jpg)
+*Photo by Paul Martin*
 
 In early 2018 I started playing keyboards in a Beatles cover band called
 <a href="https://theenglishrain.com" target="_blank">The English Rain</a>.
