@@ -1,0 +1,4 @@
+---
+name: haskell
+layout: category
+---

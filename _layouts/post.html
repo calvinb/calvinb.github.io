@@ -11,21 +11,23 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {% if page.author %}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+      • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span
+          itemprop="name">{{ page.author }}</span></span>
       {% endif %}</p>
+    {% include categories.html %}
   </header>
 
   <div class="post-content" itemprop="articleBody">
     {% if page.image %}
-      <img src="{{ page.image }}"/>
+    <img src="{{ page.image }}" />
     {% endif %}
     {% if page.video %}
-      <iframe width="420" height="315" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe>
+    <iframe width="420" height="315" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe>
     {% endif %}
     {{ content }}
   </div>
 
   {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
+  {% include disqus_comments.html %}
   {% endif %}
 </article>
