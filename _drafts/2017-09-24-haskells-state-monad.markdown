@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Haskell's State Monad
+categories: haskell functional monads
 ---
 <div class="kg-card-markdown"><p>Lately I've been looking into my own confusion around monads and side effects. In my last post I looked at the IO type constructor. Before I leave this topic behind, I think the State monad deserves a look.</p>
 <p>While IO provides an abstraction over impure interaction with the outside world, State provides an abstraction over some state held in memory.</p>

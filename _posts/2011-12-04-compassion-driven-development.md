@@ -2,6 +2,7 @@
 layout: post
 title: Compassion-Driven Development
 date: 2011-12-04 11:51:00.000000000 -06:00
+categories: social
 ---
 I have been developing software for a pretty long time now. I have worked on a lot of systems in a lot of different environments. In several of these places my orientation process included a visit to the place where the end users were, a call center or client site or whatever, to see what they did and how they used the system. Oddly enough, this usually happened once when I first started, but pretty much never again.
 

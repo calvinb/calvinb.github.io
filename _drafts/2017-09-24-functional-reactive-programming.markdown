@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Functional Reactive Programming
+categories: functional
 ---
 <div class="kg-card-markdown"><p>A few months ago I was looking into what smarter people in the world were doing around the question of user interfaces in pure functional settings, when I was first introduced to the concept of <em>Functional Reactive Programming</em>, or FRP. FRP is a pattern that uses the concept of time as an input to enable event-type user interactions in a purely functional way.</p>
 <p>The &quot;reactive&quot; part is not hard to grasp; it refers to a program being closely attuned to inputs, usually from a user via a graphical user interface. Think about a spreadsheet. We can put a formula in cell B1 that references cell A1. Whenever cell A1 is updated, B1 is updated right along with it. We don't need to click a button to recalculate; it just <em>reacts</em>.</p>

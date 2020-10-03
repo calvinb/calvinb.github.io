@@ -2,7 +2,7 @@
 layout: post
 title: Moops! Haskell, IO, and the Bubble Boy
 date: 2012-05-28 08:53:00.000000000 -05:00
-categories: haskell
+categories: haskell functional
 video: //www.youtube.com/embed/LQzW73WRrYM
 ---
 I recently set out to get Haskell connected to a PostgreSQL database. The task ended up having almost nothing to do with PostgreSQL and everything to do with Haskell's militant stance on functional purity. I chose to use HDBC since it appeared to be the most vanilla approach. Before I even got to the point of trying to open a database connection, I was confronted with a philosophical conundrum not too different from the sound of one hand clapping.
