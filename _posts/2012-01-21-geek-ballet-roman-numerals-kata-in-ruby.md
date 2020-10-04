@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Geek Ballet: Roman Numerals Kata in Ruby'
 date: 2012-01-21 15:00:00.000000000 -06:00
 categories: ruby kata

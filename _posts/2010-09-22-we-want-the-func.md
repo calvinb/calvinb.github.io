@@ -1,5 +1,4 @@
 ---
-layout: post
 title: We Want the Func! - Moving Toward Functional Programming
 date: 2010-09-22 01:31:00.000000000 -05:00
 categories: functional

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Underwater
 date: 2011-03-04 22:43:00.000000000 -06:00
 image: http://i.imgur.com/8130mL5.jpg

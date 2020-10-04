@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'OH: Confessions of a Tweet Thief'
 date: 2017-10-14 20:33:11.000000000 -05:00
 categories: social

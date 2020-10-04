@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Polyglot Survival Guide: Erlang, Haskell, F#, and Elixir'
 date: 2014-01-20 09:43:00.000000000 -06:00
 categories: haskell functional f# erlang elixir

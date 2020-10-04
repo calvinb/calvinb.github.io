@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Set-Based Operations: They''re Not Just For Databases'
 date: 2012-01-08 18:45:00.000000000 -06:00
 categories: math sets

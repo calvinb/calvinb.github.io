@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Rebuilding Haskell in C#: Functors'
 date: 2014-01-20 15:23:00.000000000 -06:00
 categories: haskell functional c#

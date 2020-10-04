@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Elixir: Language Love Child?'
 date: 2013-04-28 16:04:00.000000000 -05:00
 categories: erlang ruby elixir

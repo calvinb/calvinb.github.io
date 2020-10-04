@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Purely Functional JavaScript?
 categories: functional javascript haskell
 ---

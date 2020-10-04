@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Compassion-Driven Development
 date: 2011-12-04 11:51:00.000000000 -06:00
 categories: social

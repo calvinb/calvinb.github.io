@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Anti-Social Media
 categories: social
 ---

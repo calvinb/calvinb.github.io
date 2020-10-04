@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Roman Numerals Kata in Ruby, Take II
 date: 2012-01-28 11:34:00.000000000 -06:00
 categories: ruby kata

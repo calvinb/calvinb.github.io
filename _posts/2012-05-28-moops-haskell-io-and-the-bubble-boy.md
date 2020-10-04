@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Moops! Haskell, IO, and the Bubble Boy
 date: 2012-05-28 08:53:00.000000000 -05:00
 categories: haskell functional

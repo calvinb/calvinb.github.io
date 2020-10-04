@@ -1,5 +1,4 @@
 ---
-layout: post
 title: F-Words Slides
 date: 2014-09-26 17:02:00.000000000 -05:00
 categories: functional

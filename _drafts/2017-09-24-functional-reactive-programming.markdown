@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Functional Reactive Programming
 categories: functional
 ---

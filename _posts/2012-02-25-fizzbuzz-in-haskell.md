@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Anatomy of a One-Liner: FizzBuzz in Haskell'
 date: 2012-02-25 10:21:00.000000000 -06:00
 categories: haskell

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Problems Already Solved
 date: 2011-12-31 10:22:00.000000000 -06:00
 categories: math

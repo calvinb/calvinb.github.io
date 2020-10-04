@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Partial Application vs. Currying
 date: 2014-06-28 03:06:00.000000000 -05:00
 categories: haskell functional f# javascript

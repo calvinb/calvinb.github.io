@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Magic Not in the Monad
 date: 2014-05-13 02:46:00.000000000 -05:00
 categories: haskell monads

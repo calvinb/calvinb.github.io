@@ -1,5 +1,4 @@
 ---
-layout: post
 title: On Software and Music - In With the Old
 date: 2010-09-26 14:53:00.000000000 -05:00
 categories: music functional

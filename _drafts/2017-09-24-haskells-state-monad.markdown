@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Haskell's State Monad
 categories: haskell functional monads
 ---
