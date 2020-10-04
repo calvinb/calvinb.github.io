@@ -1,4 +1,3 @@
 ---
 name: c#
-layout: category
 ---

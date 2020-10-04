@@ -1,4 +1,3 @@
 ---
 name: social
-layout: category
 ---

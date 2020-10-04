@@ -1,4 +1,3 @@
 ---
 name: functional
-layout: category
 ---

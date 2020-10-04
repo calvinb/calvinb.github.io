@@ -1,4 +1,3 @@
 ---
 name: ruby
-layout: category
 ---

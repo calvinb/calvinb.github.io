@@ -1,4 +1,3 @@
 ---
 name: elixir
-layout: category
 ---

@@ -1,4 +1,3 @@
 ---
 name: music
-layout: category
 ---

@@ -1,4 +1,3 @@
 ---
 name: f#
-layout: category
 ---

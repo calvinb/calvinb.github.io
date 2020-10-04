@@ -1,4 +1,3 @@
 ---
 name: kata
-layout: category
 ---

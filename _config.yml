@@ -35,17 +35,21 @@ disqus:
 
 google_analytics: "UA-50923408-1"
 
+collections:
+  categories:
+    output: true
+
 defaults:
-  -
-    scope:
+  - scope:
+      path: ""
+      type: "categories"
+    values:
+      layout: "category"
+  - scope:
       path: ""
       type: "posts"
     values:
       author: Calvin Bottoms
-
-collections:
-  categories:
-    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

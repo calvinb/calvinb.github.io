@@ -1,4 +1,3 @@
 ---
 name: sets
-layout: category
 ---

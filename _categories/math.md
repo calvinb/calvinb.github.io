@@ -1,4 +1,3 @@
 ---
 name: math
-layout: category
 ---
